@@ -1,0 +1,10 @@
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.AddChips.resources
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.Form1.resources
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.Properties.Resources.resources
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\denis\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
